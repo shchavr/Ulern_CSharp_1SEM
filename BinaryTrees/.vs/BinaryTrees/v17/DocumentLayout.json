@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BinaryTrees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D69F1C-B668-4BB1-923E-60351878C64D}|BinaryTrees.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\binarytrees\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D69F1C-B668-4BB1-923E-60351878C64D}|BinaryTrees.csproj|solutionrelative:binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D69F1C-B668-4BB1-923E-60351878C64D}|BinaryTrees.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BinaryTrees\\binarytreeintask2_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D69F1C-B668-4BB1-923E-60351878C64D}|BinaryTrees.csproj|solutionrelative:binarytreeintask2_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTreeInTask2_should.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BinaryTrees\\BinaryTreeInTask2_should.cs",
+              "RelativeDocumentMoniker": "BinaryTreeInTask2_should.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BinaryTrees\\BinaryTreeInTask2_should.cs",
+              "RelativeToolTip": "BinaryTreeInTask2_should.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwKUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:03:17.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BinaryTrees\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\BinaryTrees\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:45:57.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

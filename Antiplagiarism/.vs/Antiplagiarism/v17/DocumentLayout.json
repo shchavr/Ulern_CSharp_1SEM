@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Antiplagiarism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C678D3-C0D3-48A1-A2DB-B1C672B57F4A}|Antiplagiarism.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\antiplagiarism\\longestcommonsubsequencecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C678D3-C0D3-48A1-A2DB-B1C672B57F4A}|Antiplagiarism.csproj|solutionrelative:longestcommonsubsequencecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C678D3-C0D3-48A1-A2DB-B1C672B57F4A}|Antiplagiarism.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Antiplagiarism\\levenshteincalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C678D3-C0D3-48A1-A2DB-B1C672B57F4A}|Antiplagiarism.csproj|solutionrelative:levenshteincalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LongestCommonSubsequenceCalculator.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Antiplagiarism\\LongestCommonSubsequenceCalculator.cs",
+              "RelativeDocumentMoniker": "LongestCommonSubsequenceCalculator.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Antiplagiarism\\LongestCommonSubsequenceCalculator.cs",
+              "RelativeToolTip": "LongestCommonSubsequenceCalculator.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:49:32.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevenshteinCalculator.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Antiplagiarism\\LevenshteinCalculator.cs",
+              "RelativeDocumentMoniker": "LevenshteinCalculator.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Antiplagiarism\\LevenshteinCalculator.cs",
+              "RelativeToolTip": "LevenshteinCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:26:21.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

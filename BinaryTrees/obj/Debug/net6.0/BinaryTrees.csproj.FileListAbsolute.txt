@@ -1,0 +1,3 @@
+C:\учеба\Программирование\Второй семестр\BinaryTrees\obj\Debug\net6.0\BinaryTrees.csproj.AssemblyReference.cache
+C:\учеба\Программирование\Второй семестр\BinaryTrees\obj\Debug\net6.0\BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\Программирование\Второй семестр\BinaryTrees\obj\Debug\net6.0\BinaryTrees.csproj.CoreCompileInputs.cache

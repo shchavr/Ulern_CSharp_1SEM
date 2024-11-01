@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="DiskTree.dll" fullname="C:/учеба/Программирование/Второй семестр/DiskTree/bin/Debug/net6.0/DiskTree.dll" testcasecount="5" result="Passed" start-time="2024-04-26T19:38:29.5484308Z" end-time="2024-04-26T19:38:29.5693331Z" duration="0.020875" total="5" passed="5" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="5" random-seed="1318337192">
+  <command-line><![CDATA["C:\учеба\Программирование\Второй семестр\DiskTree\bin\Debug\net6.0\DiskTree.dll"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="DiskTree.dll" fullname="C:/учеба/Программирование/Второй семестр/DiskTree/bin/Debug/net6.0/DiskTree.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2024-04-26T19:38:29.5484308Z" end-time="2024-04-26T19:38:29.5693331Z" duration="0.020875" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+    <environment framework-version="3.13.3.0" clr-version="6.0.29" os-version="Microsoft Windows 10.0.22631" platform="Win32NT" cwd="C:\учеба\Программирование\Второй семестр\DiskTree\bin\Debug\net6.0" machine-name="DESKTOP-8UME09K" user="shcha" user-domain="DESKTOP-8UME09K" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\учеба\Программирование\Второй семестр\DiskTree\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="23380" />
+      <property name="_APPDOMAIN" value="DiskTree" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="DiskTree" fullname="DiskTree" runstate="Runnable" testcasecount="5" result="Passed" start-time="2024-04-26T19:38:29.5518405Z" end-time="2024-04-26T19:38:29.5693260Z" duration="0.017485" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+      <test-suite type="TestFixture" id="1000" name="DiskTreeTask_should" fullname="DiskTree.DiskTreeTask_should" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" testcasecount="5" result="Passed" start-time="2024-04-26T19:38:29.5530906Z" end-time="2024-04-26T19:38:29.5690986Z" duration="0.016008" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+        <test-case id="1001" name="Test1" fullname="DiskTree.DiskTreeTask_should.Test1" methodname="Test1" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="2017818689" result="Passed" start-time="2024-04-26T19:38:29.5546620Z" end-time="2024-04-26T19:38:29.5663641Z" duration="0.011768" asserts="1" />
+        <test-case id="1002" name="Test2" fullname="DiskTree.DiskTreeTask_should.Test2" methodname="Test2" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="1688062446" result="Passed" start-time="2024-04-26T19:38:29.5676524Z" end-time="2024-04-26T19:38:29.5678055Z" duration="0.000153" asserts="1" />
+        <test-case id="1003" name="Test3" fullname="DiskTree.DiskTreeTask_should.Test3" methodname="Test3" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="1087413862" result="Passed" start-time="2024-04-26T19:38:29.5678213Z" end-time="2024-04-26T19:38:29.5679605Z" duration="0.000139" asserts="1" />
+        <test-case id="1004" name="Test4" fullname="DiskTree.DiskTreeTask_should.Test4" methodname="Test4" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="252364088" result="Passed" start-time="2024-04-26T19:38:29.5679685Z" end-time="2024-04-26T19:38:29.5680905Z" duration="0.000122" asserts="1" />
+        <test-case id="1005" name="Test5" fullname="DiskTree.DiskTreeTask_should.Test5" methodname="Test5" classname="DiskTree.DiskTreeTask_should" runstate="Runnable" seed="1299887219" result="Passed" start-time="2024-04-26T19:38:29.5680975Z" end-time="2024-04-26T19:38:29.5683633Z" duration="0.000266" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

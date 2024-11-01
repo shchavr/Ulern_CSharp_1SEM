@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="ghost.dll" fullname="C:/учеба/Программирование/Второй семестр/«Ghosts»/bin/Debug/net6.0/ghost.dll" testcasecount="5" result="Passed" start-time="2024-02-25T15:16:24.8225515Z" end-time="2024-02-25T15:16:24.8439318Z" duration="0.021356" total="5" passed="5" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="25" random-seed="1044125839">
+  <command-line><![CDATA["C:\учеба\Программирование\Второй семестр\«Ghosts»\bin\Debug\net6.0\ghost.dll"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="ghost.dll" fullname="C:/учеба/Программирование/Второй семестр/«Ghosts»/bin/Debug/net6.0/ghost.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2024-02-25T15:16:24.8225515Z" end-time="2024-02-25T15:16:24.8439318Z" duration="0.021356" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+    <environment framework-version="3.13.3.0" clr-version="6.0.27" os-version="Microsoft Windows 10.0.22621" platform="Win32NT" cwd="C:\учеба\Программирование\Второй семестр\«Ghosts»\bin\Debug\net6.0" machine-name="DESKTOP-8UME09K" user="shcha" user-domain="DESKTOP-8UME09K" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\учеба\Программирование\Второй семестр\«Ghosts»\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="3280" />
+      <property name="_APPDOMAIN" value="ghost" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="5" result="Passed" start-time="2024-02-25T15:16:24.8266374Z" end-time="2024-02-25T15:16:24.8439246Z" duration="0.017287" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+      <test-suite type="TestFixture" id="1000" name="GhostsTest" fullname="hashes.GhostsTest" classname="hashes.GhostsTest" runstate="Runnable" testcasecount="5" result="Passed" start-time="2024-02-25T15:16:24.8275889Z" end-time="2024-02-25T15:16:24.8437438Z" duration="0.016155" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+        <test-case id="1003" name="GhostCatBreaksHashSet" fullname="hashes.GhostsTest.GhostCatBreaksHashSet" methodname="GhostCatBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1867904837" result="Passed" start-time="2024-02-25T15:16:24.8289550Z" end-time="2024-02-25T15:16:24.8408236Z" duration="0.011921" asserts="5" />
+        <test-case id="1004" name="GhostDocumentBreaksHashSet" fullname="hashes.GhostsTest.GhostDocumentBreaksHashSet" methodname="GhostDocumentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="896040445" result="Passed" start-time="2024-02-25T15:16:24.8419073Z" end-time="2024-02-25T15:16:24.8423638Z" duration="0.000456" asserts="5" />
+        <test-case id="1005" name="GhostRobotBreaksHashSet" fullname="hashes.GhostsTest.GhostRobotBreaksHashSet" methodname="GhostRobotBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1617141378" result="Passed" start-time="2024-02-25T15:16:24.8423815Z" end-time="2024-02-25T15:16:24.8426515Z" duration="0.000270" asserts="5" />
+        <test-case id="1002" name="GhostSegmentBreaksHashSet" fullname="hashes.GhostsTest.GhostSegmentBreaksHashSet" methodname="GhostSegmentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1182043291" result="Passed" start-time="2024-02-25T15:16:24.8426611Z" end-time="2024-02-25T15:16:24.8429580Z" duration="0.000297" asserts="5" />
+        <test-case id="1001" name="GhostVectorBreaksHashSet" fullname="hashes.GhostsTest.GhostVectorBreaksHashSet" methodname="GhostVectorBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1465298830" result="Passed" start-time="2024-02-25T15:16:24.8429744Z" end-time="2024-02-25T15:16:24.8431564Z" duration="0.000182" asserts="5" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

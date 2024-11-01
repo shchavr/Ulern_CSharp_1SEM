@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="readonly-bytes.dll" fullname="C:/учеба/Программирование/Второй семестр/«Readonly bytes»/bin/Debug/net6.0/readonly-bytes.dll" testcasecount="14" result="Failed" start-time="2024-03-04T17:33:42.0388592Z" end-time="2024-03-04T17:33:42.2262950Z" duration="0.187410" total="14" passed="7" failed="7" inconclusive="0" skipped="0" warnings="0" asserts="100014" random-seed="1990709606">
+  <command-line><![CDATA["C:\учеба\Программирование\Второй семестр\«Readonly bytes»\bin\Debug\net6.0\readonly-bytes.dll"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1016" name="readonly-bytes.dll" fullname="C:/учеба/Программирование/Второй семестр/«Readonly bytes»/bin/Debug/net6.0/readonly-bytes.dll" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2024-03-04T17:33:42.0388592Z" end-time="2024-03-04T17:33:42.2262950Z" duration="0.187410" total="14" passed="7" failed="7" warnings="0" inconclusive="0" skipped="0" asserts="100014">
+    <environment framework-version="3.13.3.0" clr-version="6.0.27" os-version="Microsoft Windows 10.0.22621" platform="Win32NT" cwd="C:\учеба\Программирование\Второй семестр\«Readonly bytes»\bin\Debug\net6.0" machine-name="DESKTOP-8UME09K" user="shcha" user-domain="DESKTOP-8UME09K" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\учеба\Программирование\Второй семестр\«Readonly bytes»\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="15844" />
+      <property name="_APPDOMAIN" value="readonly-bytes" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1017" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2024-03-04T17:33:42.0429067Z" end-time="2024-03-04T17:33:42.2262918Z" duration="0.183385" total="14" passed="7" failed="7" warnings="0" inconclusive="0" skipped="0" asserts="100014">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="ReadonlyBytesTests" fullname="hashes.ReadonlyBytesTests" classname="hashes.ReadonlyBytesTests" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2024-03-04T17:33:42.0441021Z" end-time="2024-03-04T17:33:42.2262847Z" duration="0.182182" total="14" passed="7" failed="7" warnings="0" inconclusive="0" skipped="0" asserts="100014">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1001" name="Creation" fullname="hashes.ReadonlyBytesTests.Creation" methodname="Creation" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="395196130" result="Passed" start-time="2024-03-04T17:33:42.0456092Z" end-time="2024-03-04T17:33:42.0482275Z" duration="0.002669" asserts="0" />
+        <test-case id="1002" name="CreationException" fullname="hashes.ReadonlyBytesTests.CreationException" methodname="CreationException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1764551912" result="Passed" start-time="2024-03-04T17:33:42.0492764Z" end-time="2024-03-04T17:33:42.0595715Z" duration="0.010295" asserts="1" />
+        <test-case id="1006" name="Enumeration" fullname="hashes.ReadonlyBytesTests.Enumeration" methodname="Enumeration" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1691160765" result="Passed" start-time="2024-03-04T17:33:42.0596020Z" end-time="2024-03-04T17:33:42.0669581Z" duration="0.007356" asserts="1" />
+        <test-case id="1007" name="EqualOnSameBytes" fullname="hashes.ReadonlyBytesTests.EqualOnSameBytes" methodname="EqualOnSameBytes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="2124121722" result="Failed" label="Error" start-time="2024-03-04T17:33:42.0669828Z" end-time="2024-03-04T17:33:42.0988159Z" duration="0.031834" asserts="0">
+          <failure>
+            <message><![CDATA[System.OverflowException : Arithmetic operation resulted in an overflow.]]></message>
+            <stack-trace><![CDATA[   at hashes.ReadonlyBytes.CalculateFNVHash() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 90
+   at hashes.ReadonlyBytes..ctor(Byte[] inputValues) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 34
+   at hashes.ReadonlyBytesTests.EqualOnSameBytes() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 69]]></stack-trace>
+          </failure>
+        </test-case>
+        <test-case id="1013" name="HashCode" fullname="hashes.ReadonlyBytesTests.HashCode" methodname="HashCode" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="2019450786" result="Failed" label="Error" start-time="2024-03-04T17:33:42.0989082Z" end-time="2024-03-04T17:33:42.0999951Z" duration="0.001087" asserts="0">
+          <failure>
+            <message><![CDATA[System.OverflowException : Arithmetic operation resulted in an overflow.]]></message>
+            <stack-trace><![CDATA[   at hashes.ReadonlyBytes.CalculateFNVHash() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 90
+   at hashes.ReadonlyBytes..ctor(Byte[] inputValues) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 34
+   at hashes.ReadonlyBytesTests.HashCode() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 99]]></stack-trace>
+          </failure>
+        </test-case>
+        <test-case id="1004" name="Indexer" fullname="hashes.ReadonlyBytesTests.Indexer" methodname="Indexer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1616532555" result="Passed" start-time="2024-03-04T17:33:42.1000139Z" end-time="2024-03-04T17:33:42.1002988Z" duration="0.000285" asserts="3" />
+        <test-case id="1005" name="IndexOutOfRangeException" fullname="hashes.ReadonlyBytesTests.IndexOutOfRangeException" methodname="IndexOutOfRangeException" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1008953775" result="Passed" start-time="2024-03-04T17:33:42.1003112Z" end-time="2024-03-04T17:33:42.1005437Z" duration="0.000233" asserts="1" />
+        <test-case id="1003" name="Length" fullname="hashes.ReadonlyBytesTests.Length" methodname="Length" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1995231300" result="Passed" start-time="2024-03-04T17:33:42.1005537Z" end-time="2024-03-04T17:33:42.1006539Z" duration="0.000100" asserts="1" />
+        <test-case id="1015" name="MassiveCallToGetHashCodeOfLargeBytesArray" fullname="hashes.ReadonlyBytesTests.MassiveCallToGetHashCodeOfLargeBytesArray" methodname="MassiveCallToGetHashCodeOfLargeBytesArray" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1570269323" result="Passed" start-time="2024-03-04T17:33:42.1006616Z" end-time="2024-03-04T17:33:42.2213433Z" duration="0.120682" asserts="100000" />
+        <test-case id="1008" name="NotEqualIfBytesDiffer" fullname="hashes.ReadonlyBytesTests.NotEqualIfBytesDiffer" methodname="NotEqualIfBytesDiffer" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1613634696" result="Failed" label="Error" start-time="2024-03-04T17:33:42.2213718Z" end-time="2024-03-04T17:33:42.2225624Z" duration="0.001191" asserts="2">
+          <failure>
+            <message><![CDATA[System.OverflowException : Arithmetic operation resulted in an overflow.]]></message>
+            <stack-trace><![CDATA[   at hashes.ReadonlyBytes.CalculateFNVHash() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 90
+   at hashes.ReadonlyBytes..ctor(Byte[] inputValues) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 34
+   at hashes.ReadonlyBytesTests.NotEqualIfBytesDiffer() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 82]]></stack-trace>
+          </failure>
+        </test-case>
+        <test-suite type="ParameterizedMethod" id="1012" name="NotEqualWithOtherTypes" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2024-03-04T17:33:42.2225762Z" end-time="2024-03-04T17:33:42.2242561Z" duration="0.001680" total="3" passed="0" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="4">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1009" name="NotEqualWithOtherTypes([])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes([])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="405713447" result="Failed" label="Error" start-time="2024-03-04T17:33:42.2227324Z" end-time="2024-03-04T17:33:42.2231012Z" duration="0.000369" asserts="0">
+            <failure>
+              <message><![CDATA[System.OverflowException : Arithmetic operation resulted in an overflow.]]></message>
+              <stack-trace><![CDATA[   at hashes.ReadonlyBytes.CalculateFNVHash() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 90
+   at hashes.ReadonlyBytes..ctor(Byte[] inputValues) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 34
+   at hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(Byte[] bytes) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 91]]></stack-trace>
+            </failure>
+          </test-case>
+          <test-case id="1010" name="NotEqualWithOtherTypes([1, 2, 4])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes([1, 2, 4])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1558947759" result="Failed" label="Error" start-time="2024-03-04T17:33:42.2231110Z" end-time="2024-03-04T17:33:42.2234281Z" duration="0.000317" asserts="2">
+            <failure>
+              <message><![CDATA[System.OverflowException : Arithmetic operation resulted in an overflow.]]></message>
+              <stack-trace><![CDATA[   at hashes.ReadonlyBytes.CalculateFNVHash() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 90
+   at hashes.ReadonlyBytes..ctor(Byte[] inputValues) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 34
+   at hashes.ReadonlyBytesTests.DerivedFromReadonlyBytes..ctor() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 130
+   at hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(Byte[] bytes) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 93]]></stack-trace>
+            </failure>
+          </test-case>
+          <test-case id="1011" name="NotEqualWithOtherTypes([byte.MinValue])" fullname="hashes.ReadonlyBytesTests.NotEqualWithOtherTypes([byte.MinValue])" methodname="NotEqualWithOtherTypes" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1100786837" result="Failed" label="Error" start-time="2024-03-04T17:33:42.2234371Z" end-time="2024-03-04T17:33:42.2236600Z" duration="0.000223" asserts="2">
+            <failure>
+              <message><![CDATA[System.OverflowException : Arithmetic operation resulted in an overflow.]]></message>
+              <stack-trace><![CDATA[   at hashes.ReadonlyBytes.CalculateFNVHash() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 90
+   at hashes.ReadonlyBytes..ctor(Byte[] inputValues) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 34
+   at hashes.ReadonlyBytesTests.DerivedFromReadonlyBytes..ctor() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 130
+   at hashes.ReadonlyBytesTests.NotEqualWithOtherTypes(Byte[] bytes) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 93]]></stack-trace>
+            </failure>
+          </test-case>
+        </test-suite>
+        <test-case id="1014" name="ToStringIsOverridden" fullname="hashes.ReadonlyBytesTests.ToStringIsOverridden" methodname="ToStringIsOverridden" classname="hashes.ReadonlyBytesTests" runstate="Runnable" seed="1555979393" result="Failed" label="Error" start-time="2024-03-04T17:33:42.2245588Z" end-time="2024-03-04T17:33:42.2262101Z" duration="0.001651" asserts="1">
+          <failure>
+            <message><![CDATA[System.OverflowException : Arithmetic operation resulted in an overflow.]]></message>
+            <stack-trace><![CDATA[   at hashes.ReadonlyBytes.CalculateFNVHash() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 90
+   at hashes.ReadonlyBytes..ctor(Byte[] inputValues) in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytes.cs:line 34
+   at hashes.ReadonlyBytesTests.ToStringIsOverridden() in C:\учеба\Программирование\Второй семестр\«Readonly bytes»\ReadonlyBytesTests.cs:line 115]]></stack-trace>
+          </failure>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

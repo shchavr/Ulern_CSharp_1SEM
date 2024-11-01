@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u00ABGhosts\u00BB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C59AC-11E9-47BC-8BD2-E4DFD58A8696}|hashes-ghosts.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u00ABghosts\u00BB\\ghoststask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C59AC-11E9-47BC-8BD2-E4DFD58A8696}|hashes-ghosts.csproj|solutionrelative:ghoststask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GhostsTask.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u00ABGhosts\u00BB\\GhostsTask.cs",
+              "RelativeDocumentMoniker": "GhostsTask.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u00ABGhosts\u00BB\\GhostsTask.cs",
+              "RelativeToolTip": "GhostsTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:13:50.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

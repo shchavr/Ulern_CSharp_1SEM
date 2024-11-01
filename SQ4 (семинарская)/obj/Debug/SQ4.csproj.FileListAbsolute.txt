@@ -1,0 +1,7 @@
+C:\учеба\Прога\2 сем\SQ4\bin\Debug\SQ4.exe.config
+C:\учеба\Прога\2 сем\SQ4\bin\Debug\SQ4.exe
+C:\учеба\Прога\2 сем\SQ4\bin\Debug\SQ4.pdb
+C:\учеба\Прога\2 сем\SQ4\obj\Debug\SQ4.csproj.AssemblyReference.cache
+C:\учеба\Прога\2 сем\SQ4\obj\Debug\SQ4.csproj.CoreCompileInputs.cache
+C:\учеба\Прога\2 сем\SQ4\obj\Debug\SQ4.exe
+C:\учеба\Прога\2 сем\SQ4\obj\Debug\SQ4.pdb
